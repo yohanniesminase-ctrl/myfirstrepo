@@ -1,0 +1,10 @@
+Brief Introduction About Myself
+My name is Yohannis Minase, and I am an 18-year-old student at Addis Ababa University (AAU).
+I am deeply interested in science and technology, with a growing passion for understanding complex systems and fundamental principles.
+I enjoy studying subjects that challenge my thinking, particularly in areas that require logical reasoning and problem-solving.
+I am committed to continuous learning and aim to develop a strong academic foundation.
+
+Looking ahead, I aspire to become a theoretical physicist and a research software engineer (RSE). 
+I am especially interested in combining physics with computational methods to explore and solve complex scientific problems. 
+I am focused on building the necessary skills in mathematics, programming, and scientific research to achieve these goals.
+With dedication and persistence, I hope to contribute meaningfully to advancements in science and technology.
