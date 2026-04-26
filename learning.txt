@@ -1,0 +1,1 @@
+So far in this course, I have learned how to authenticate with GitHub using a Personal Access Token (PAT) and how to clone a remote repository to my local machine using Git Bash.
